@@ -32,11 +32,21 @@
 
 ## Input:
 
+
+<img width="1112" height="672" alt="image" src="https://github.com/user-attachments/assets/33e3596a-cc85-40c0-bf83-8ab4be0d050a" />
+
+
+
 ### Output:
 
 
-### Name:
-### Register Number:
+<img width="1105" height="678" alt="image" src="https://github.com/user-attachments/assets/f5e157bb-58a2-4d20-9182-43f8adf9b6a6" />
+
+
+
+
+### Name : CHITTOOR SARAVANA MRUDHULA
+### Register Number : 212224040056
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
